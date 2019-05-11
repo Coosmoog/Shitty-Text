@@ -1,0 +1,10 @@
+{
+	"strings":
+	{
+		"CHARACTER_SELECT_TITLE": "choose your fighter",
+		"SURVIVOR_OVERVIEW": "recieve the beans",
+		"SURVIVOR_SKILLS": "stuff you can do",
+		"CHARACTER_SELECT_READY": "Sauce",
+		"CHARACTER_SELECT_LOCKED_IN": "one badge on screen now big yeet",
+	}
+}

@@ -1,0 +1,151 @@
+{
+	strings:
+	{
+	//[INTERACTABLES],
+	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "leave the pOD and do the grand adventure slaughter thingy majigy?",
+
+	"TELEPORTER_NAME": "Yeeter",
+	"TELEPORTER_BEGIN_CONTEXT": "Mess with this questionable thing to gtfo this dumbass place..?",
+	"TELEPORTER_END_CONTEXT": "Fucking leave",
+
+	"BARREL1_NAME": "FREE SHIT",
+	"BARREL1_CONTEXT": "get shit?",
+	
+	"LOCKBOX_NAME": "Keybox",
+	"LOCKBOX_CONTEXT": "Use THE UGANDAN KEY..?",
+	
+	"EQUIPMENTBARREL_NAME": "Barrel of goodies!",
+	"EQUIPMENTBARREL_CONTEXT": "get use thing?",
+
+	//[CHESTS],
+	"OLDCHEST_NAME": "Old Chest",
+	"OLDCHEST_CONTEXT": "",
+
+	"CHEST1_NAME": "fucking box",
+	"CHEST1_CONTEXT": "get garbage or fungus",
+
+	"CHEST1_STEALTHED_NAME": "You cant see me",
+	"CHEST1_STEALTHED_CONTEXT": "Kept you waiting, huh?",
+
+	"CHEST2_NAME": "the 'fuck you' chest",
+	"CHEST2_CONTEXT": "Get old war stealthkit?",
+
+	"GOLDCHEST_NAME": "Chest with good shit",
+	"GOLDCHEST_CONTEXT": "Recieve the beans",
+
+	"TIMEDCHEST_NAME": "speedrun chest",
+	"TIMEDCHEST_CONTEXT": "spedrun chest oopppeeen????",
+
+	"RADIOTOWER_NAME" : "Waste of money",
+	"RADIOTOWER_CONTEXT" : "Get rid of your money for some nerdlogs?",
+
+	"MULTISHOP_TERMINAL_NAME": "Better chest",
+	"MULTISHOP_TERMINAL_CONTEXT": "Recieve good thing?",
+
+	"FAN_NAME": "Fan",
+	"FAN_CONTEXT": "Press the on switch that costs money for some reason because you are physically unable to reach down and flick the switch?",
+
+	"DUPLICATOR_NAME": "YES",
+	"DUPLICATOR_CONTEXT": "U N L I M I T E D  P O W E R",
+
+	"DUPLICATOR_MILITARY_NAME": "Better printer?",
+	"DUPLICATOR_MILITARY_CONTEXT": "Use this thing I had no idea that existed until now",
+
+	//[LUNAR STUFF],
+	"LUNAR_CHEST_NAME" : "Poop",
+	"LUNAR_CHEST_CONTEXT" : "yay",
+
+	"LUNAR_TERMINAL_NAME" : "garbage",
+	"LUNAR_TERMINAL_CONTEXT" : "why",
+
+	"BAZAAR_UPGRADE_LUNAR_NAME" : "Sloob",
+	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "get better stuff in here i guess",
+
+	"BAZAAR_BLUEPRINT_NAME" : "what",
+	"BAZAAR_BLUEPRINT_CONTEXT" : "ackl",
+
+	"BAZAAR_UPGRADE_DRONE_NAME" : "acK SlAB",
+	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "Make drone better",
+
+	"BAZAAR_CAULDRON_NAME" : "Soup Bowl",
+	"BAZAAR_CAULDRON_CONTEXT" : "Get this item at the cost of donating stuff to soup",
+
+	"NEWT_STATUE_NAME" : "teleporter yeet thing",
+	"NEWT_STATUE_CONTEXT" : "go to the store",
+
+	"MSOBELISK_NAME" : "Obelisk",
+	"MSOBELISK_CONTEXT" : "die?",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "do it no balls lmfao",
+
+
+	//[SHRINES],
+	"SHRINE_HEALING_NAME": "Garbo Totem",
+	"SHRINE_HEALING_CONTEXT": "Waste some fucking money",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>Good job on wasting your goddamned money</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} wated their money</color>",
+	
+	"SHRINE_BLOOD_NAME": "Shrine of Blood",
+	"SHRINE_BLOOD_CONTEXT": "Offer to Shrine of Blood",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>BIG OW. You have gained {1} bitcoins.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} stubbed their toe, and god felt bad so he gave them {1} gold.</color>",
+
+	"SHRINE_CHANCE_NAME": "Shrine of FUCK YOU HAVE NOTHING",
+	"SHRINE_CHANCE_CONTEXT": "Please?",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>GOD LOVES YOU</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} IS LOVED BY GOD</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>fuck you now go die.</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} is in utter despair and depression.</color>",
+
+	"SHRINE_BOSS_NAME": "Hand",
+	"SHRINE_BOSS_CONTEXT": "Turn on hard mode",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>You better get good bittttccccccccchhh..</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} might've just fucker your day my boy..</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Prepare your ass to be grass, because you're about to get fuuuucccckkkkeedddd</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Wow good job.</style>",
+
+	"SHRINE_RESTACK_NAME": "Shrine of Memery",
+	"SHRINE_RESTACK_CONTEXT": "Memes",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... memeified.</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} is... utterly incapable of doing anything.</color>",
+
+	"SHRINE_GOLDSHORES_NAME": "Gold Shrine",
+	"SHRINE_GOLDSHORES_CONTEXT": "go to hawaii and get fucked by big boy?",
+
+	"SHRINE_COMBAT_NAME": "Shrine of FREE MONEY",
+	"SHRINE_COMBAT_CONTEXT": "Get some bitcoins",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>Dark Spirits {1} have invaded</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} is about to get fucked {1} by these guyst.</color>",
+
+	"GOLDTOTEM_NAME": "Disable this guy invincibility beacon",
+	"GOLDTOTEM_CONTEXT": "Ping an admin in hopes of them removing this guys hacks",
+
+	//MISC
+	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+	"LOCKEDMAGE_NAME" : "piece of shit",
+	"LOCKEDMAGE_CONTEXT" : "dont waste your fucking money please",
+
+	//[DRONES],
+	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken peeshooter",
+	"DRONE_GUNNER_CONTEXT": "pee on peeshooter",
+
+	"DRONE_MEGA_INTERACTABLE_NAME": "Borken ac-130",
+	"DRONE_MEGA_CONTEXT": "call in ac-130",
+
+	"DRONE_HEALING_INTERACTABLE_NAME": "broken thingy",
+	"DRONE_HEALING_CONTEXT": "it wont heal you dont buy this",
+
+	"DRONE_MISSILE_INTERACTABLE_NAME": "Broken boom",
+	"DRONE_MISSILE_CONTEXT": "buy this",
+
+	//[TURRETS],
+	"TURRET1_INTERACTABLE_NAME": "mingun",
+	"TURRET1_CONTEXT": "why",
+
+	"PORTAL_GENERIC_CONTEXT": "Enter... The Gungeon",
+
+	"PICKUP_LUNAR_COIN": "Moon Coin",
+	"LUNAR_COIN_PICKUP_CONTEXT": "PICK IT UP QUICKLY",
+	}
+}

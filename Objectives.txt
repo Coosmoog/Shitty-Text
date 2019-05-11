@@ -1,0 +1,13 @@
+{
+	"strings":
+	{
+		"OBJECTIVE_FIND_TELEPORTER": "find that weird crab place <style=cDeath>and gtfo <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_CHARGE_TELEPORTER": "plug the thing in and let it <style=cDeath>CHOOG <sprite name=\"TP\" tint=1></style> ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "GET IN THE ZONE <style=cDeath> THE AUTO ZONE</style> ({0}%)",
+		"OBJECTIVE_FINISH_TELEPORTER": "GTFO LOSER <style=cDeath> OR DODDLE AROUND IDK <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_DEFEAT_BOSS": "BURN THOSE MOTHERFUCKERS!",
+		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "rebuild society({0}/{1})",
+		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "beat {0},{1}",
+		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "destroy the <color=#f37aff> thanos stones</color> ({0}/{1})",
+	}
+}

@@ -1,0 +1,289 @@
+{
+	strings:
+	{
+	"ITEM_PICKUP_CONTEXT" : "obtain the {0}",
+	"EQUIPMENT_PICKUP_CONTEXT" : "beans and some {0}",
+	"EQUIPMENT_SWAP_CONTEXT" : "Cast aside your old shit to get {0}",
+
+	"ITEM_CLOVER_NAME": "Yuo a lucky boy",
+	"ITEM_CLOVER_PICKUP": "Luck is on your side, jackass.",
+	"ITEM_CLOVER_DESC": "The shrine of chance actually gives you good stuff now so yay", 
+
+	"ITEM_SYRINGE_NAME": "HEROINE",
+	"ITEM_SYRINGE_PICKUP": "I SHOOT FAST",
+	"ITEM_SYRINGE_DESC": "BLAM BLAM YOU SHOOT FASTER.",
+
+	"ITEM_BEAR_NAME": "You thought it was tough times but it was I! Tougher Times!",
+	"ITEM_BEAR_PICKUP": "a furries cumsock",
+	"ITEM_BEAR_DESC": "Hehehehe, I'm FUCKING INVIcIBLE ", 
+	"ITEM_BEAR_LORE" : "<style=cMono>\n//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//</style>\n\n\"Why\'d you sign up?\"\n\nWyatt\'s voice was bored. The mission to the Contact Light\'s last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that\'s it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I\'m here to find something.\" He continued. \"I shipped it a few years back, but I don\'t think it made it before the train went down. I\'m guessing it\'s still in the Contact Light. So I\'m gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It\'s all gone, Wyatt.\"\n\nHe grinned. \"I think I\'m gonna find it.\"\n\n\"You\'re terrible.\"\n",
+	
+	"ITEM_BEHEMOTH_NAME": "RPG",
+	"ITEM_BEHEMOTH_PICKUP": "Win the game.",
+	"ITEM_BEHEMOTH_DESC": "You no longer require any brain cells.", 
+
+	"ITEM_MISSILE_NAME": "great value big boomer",
+	"ITEM_MISSILE_PICKUP": "boom",
+	"ITEM_MISSILE_DESC": "suck ass", 
+
+	"ITEM_EXPLODEONDEATH_NAME": "kaBLEWY",
+	"ITEM_EXPLODEONDEATH_PICKUP": "Aye, ye wee cunt. Bascially when ye kill a bitch they go kABLOOEWWYYY",
+	"ITEM_EXPLODEONDEATH_DESC": "Stack a shit ton of these then kill one enemy to nuke everyone else and cause a chain reaction.", 
+
+	"ITEM_DAGGER_NAME": "Butterer",
+	"ITEM_DAGGER_PICKUP": "Butters your bread",
+	"ITEM_DAGGER_DESC": "Butters bread for you. <style=cStack>(egg)</style>", 
+	"ITEM_DAGGER_LORE": "The smell of sulfur fills the air.\r\n\r\n\"Oh god, they're so close. They have Hitchcock. Oh god.\"\r\n\r\n\"Grab the - the dagger. From my backpack. Quick.\"\r\n\r\n\"I-I don't... I got it. What the hell? This isn't gonna work, Marion. What the hell am I supposed to do with this against those...? They blew him into pieces - oh god.\"\r\n\r\n\"You have to... you have to kill me - ah! Kill me. Kill me with it.\"\r\n\r\n\"What? What the hell?\"\r\n\r\n\"Yeah - it's the only way. Please.\"\r\n\r\n\"What are you saying? Stop!\"\r\n\r\n\"It's a magic dagger. It'll save us. She will save us. But you have to kill me with it.\"\r\n\r\n\"Please don't... please don't make me. Oh god.\"\r\n\r\n\"Y-you have to. I've seen how this works. It's the only way - they're coming so close. You have to use it on me. Kill me.\"\r\n\r\n\"I'm so sorry Marion. I'm so so sorry. I don't think-\"\r\n\r\n\"Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-\"",
+	
+	"ITEM_TOOTH_NAME": "Garbage",
+	"ITEM_TOOTH_PICKUP": "Fuck this thing.",
+	"ITEM_TOOTH_DESC": "Desc not needed, it's printer fodder", 
+
+	"ITEM_CRITGLASSES_NAME": "Very necessary glasses",
+	"ITEM_CRITGLASSES_PICKUP": "Become the greatest person in the universe",
+	"ITEM_CRITGLASSES_DESC": "Chance that the sheen off the glasses critically and emotionally hurts enemies.", 
+
+	"ITEM_HOOF_NAME": "Brony's Boot",
+	"ITEM_HOOF_PICKUP": "Don't matter it's a bronies, hit a big yeet.",
+	"ITEM_HOOF_DESC": "GO FASTER.",
+
+	"ITEM_FEATHER_NAME": "The dev feather",
+	"ITEM_FEATHER_PICKUP": "Jump one more time!",
+	"ITEM_FEATHER_DESC": "Stack a shit ton of these to yeet everywhere", 
+
+	"ITEM_AACANNON_NAME": "AA Cannon",
+	"ITEM_AACANNON_PICKUP": "AA Cannon pickup text.",
+	"ITEM_AACANNON_DESC": "AA Cannon description.",
+ 
+	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
+	"ITEM_CHAINLIGHTNING_PICKUP": "...and his music was electric.",
+	"ITEM_CHAINLIGHTNING_DESC": "...those who survived can atest to this day, that indeed, his music was electric.",
+
+	"ITEM_PLASMACORE_NAME": "Plasma Core",
+	"ITEM_PLASMACORE_PICKUP": "Plasma Core pickup text",
+	"ITEM_PLASMACORE_DESC": "Plasma Core description.", 
+
+	"ITEM_SEED_NAME": "The Seed of Evil",
+	"ITEM_SEED_PICKUP": "It germinates within you.",
+	"ITEM_SEED_DESC": "Beneath the skin, we are already, one.", 
+
+	"ITEM_ICICLE_NAME": "Merc buff",
+	"ITEM_ICICLE_PICKUP": "If yuo not merc fuck yourself",
+	"ITEM_ICICLE_DESC": "basically damage and freezyness cool done goobye", 
+
+	"ITEM_GHOSTONKILL_NAME": "spooky salad",
+	"ITEM_GHOSTONKILL_PICKUP": "scare the life energy out of someone and get them on ur side",
+	"ITEM_GHOSTONKILL_DESC": "hurting enmies inflicts them with big spook syndrome", 
+
+	"ITEM_MUSHROOM_NAME": "THE ALMIGHTY FUNGUS",
+	"ITEM_MUSHROOM_PICKUP": "THE FUNGUS, THE ALMIGHTY FUNGUS CAPABLE OF HEALING ALL",
+	"ITEM_MUSHROOM_DESC": "engineers best friend", 
+
+	"ITEM_CROWBAR_NAME": "Crowbar",
+	"ITEM_CROWBAR_PICKUP": "You can now commit crimes.",
+	"ITEM_CROWBAR_DESC": "Unlocks the ability 'break in' allowing you to break into places you are not supposed to be.",   
+
+	"ITEM_ATTACKSPEEDONCRIT_NAME": "Furry Head..?",
+	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'*pounces on you* Mwy swon! Awake your wawwior inswicts!",
+	"ITEM_ATTACKSPEEDONCRIT_DESC": "Crits make gun go shoot foost",
+	"ITEM_ATTACKSPEEDONCRIT_LORE": "Gossip spreads quickly in terrified communities. Stories that keep the more fearful lizardfolk in their passageways. Hushed tales that frighten the most commanding of stone constructs and woodfolk and creatures of the plains. Fear travels between the trees and the valleys.\n\nA demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. Only two arms, two legs - but with 22 unblinking, crimson eyes.\n",
+	"ITEM_BLEEDONHIT_NAME": "garbage proc",
+	"ITEM_BLEEDONHIT_PICKUP": "who fuckign cares",
+	"ITEM_BLEEDONHIT_DESC": "BLEED YOU FOOL, BLEEEEEEEEEEEEED",
+
+	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Try this up your ass",
+	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "It fits comfortably up there.",
+	"ITEM_SPRINTOUTOFCOMBAT_DESC": "faster, faster! F A S T E R",
+
+	"ITEM_FALLBOOTS_NAME": "MAR10 v5",
+	"ITEM_FALLBOOTS_PICKUP": "Itsa me! Mario!",
+	"ITEM_FALLBOOTS_DESC": "i dont know just yeet on people and goomba stomp people. <style=cStack>(whatever)</style>",
+	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
+
+	"ITEM_COOLDOWNONCRIT_NAME": "Gnarly ring",
+	"ITEM_COOLDOWNONCRIT_PICKUP": "'Oh man its totally gnarly!.",
+	"ITEM_COOLDOWNONCRIT_DESC": "I won't tell you what this thing does, fuck you.",
+
+	"ITEM_WARDONLEVEL_NAME": "whhhyyyyy",
+	"ITEM_WARDONLEVEL_PICKUP": "Hoo boy, aren't you wishing you got something else?",
+	"ITEM_WARDONLEVEL_DESC": "You get a banner, but this isn't what you really wanted.",
+
+	"ITEM_WARCRYONCOMBAT_NAME": "irkers pauldron v1",
+	"ITEM_WARCRYONCOMBAT_PICKUP": "Have your rabies get turned on when you enter a social situation",
+	"ITEM_WARCRYONCOMBAT_DESC": "",
+
+	"ITEM_WARCRYONMULTIKILL_NAME": "irked pauldron v2",
+	"ITEM_WARCRYONMULTIKILL_PICKUP": "irked when you kill three guys",
+	"ITEM_WARCRYONMULTIKILL_DESC": "Killing 3 enemies within 1 second sends you into a frenzy for 6s <style=cStack>(+4s per stack)</style>. Increases movement speed by 50% and attack speed by 100%.",
+
+	"ITEM_PHASING_NAME": "Fuck you",
+	"ITEM_PHASING_PICKUP": "I'm truly sorry.",
+	"ITEM_PHASING_DESC": "Hey uh, if you take a lotta damage, you'll cancel your burning damage,",
+	"ITEM_PHASING_LORE": "Order:  Misc. OW Artifacts (47)\r\nTracking Number: 01******\r\nEstimated Delivery: 08\/13\/2056\r\nShipping Method: Priority\r\nShipping Address: National Old War Musuem, New Orleans, Earth\r\nShipping Details:\r\n\r\nWe've managed to round up all the local Old War artifacts that we could find. A lot of interesting things here: rifles, rations, pamphlets. We even found a prototype stealthkit in fantastic condition; that could be a great centerpiece for your exhibit.\r\n\r\nHowever, a slight issue: in transit, the truck hit a pothole and jostled all the ship. It seemed to have actually activated the stealth drive - some strange short-circuit - and our team can't actually confirm the location of the stealthkit. It should be in one of the boxes - we will be expecting the commission to include the stealthkit.\r\n",
+	
+	"ITEM_HEALONCRIT_NAME": "farming tool",
+	"ITEM_HEALONCRIT_PICKUP": "'Congrats! You can now farm!",
+	"ITEM_HEALONCRIT_DESC": "Farming allows you to make food and money! <style=cStack>(sadly farming has not been added)</style>",
+
+	"ITEM_HEALWHILESAFE_NAME": "Sloog Boog",
+	"ITEM_HEALWHILESAFE_PICKUP": "Gives you the <style=cDamage> S U C C </style>.",
+	"ITEM_HEALWHILESAFE_DESC": "mm yes you recieve the succ <style=cStack>(they eat your peen)</style> ",
+
+	"ITEM_JUMPBOOST_NAME": "The Quail",
+	"ITEM_JUMPBOOST_PICKUP": "You're wishes have been fufilled. The quail is here!",
+	"ITEM_JUMPBOOST_DESC": "When you jump you move faster! <style=cStack>(the more you get, the more space you go. But you knew that, right?)</style>.",
+	"ITEM_JUMPBOOST_LORE" : "Order: Wax Quail\r\nTracking Number: 15******\r\nEstimated Delivery: 12\/18\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nHello Buu,\r\nHow are you doing? This is Mama. \r\n\r\nThe weather here has been dreadful. It is raining every day. We have recently found a new bakery nearby that has delicious sandwiches. Papa has recently taken up whittling. He uses wax because it is softer. I have attached one of his favorites. Hopefully it has not been dinged in the mail :-)\r\n\r\nAnyways, I will leave Buu alone. Hope to see you soon!\r\nMama",
+	
+	"ITEM_PERSONALSHIELD_NAME": "More Health..?",
+	"ITEM_PERSONALSHIELD_PICKUP": "I guess this item is good.",
+	"ITEM_PERSONALSHIELD_DESC": "More health, neat right? It heals outside of combat too...",
+
+	"ITEM_NOVAONHEAL_NAME": "Fungus friend",
+	"ITEM_NOVAONHEAL_PICKUP": "GET MISSILE WHEN U HEAL.",
+	"ITEM_NOVAONHEAL_DESC": "What do you care about the description? You know what this does.",
+	"ITEM_NOVAONHEAL_LORE" : "\"Let us begin.\r\n\r\nWhat is your oath?\r\n\r\nNot very long ago, health and time were in perfect synergy. Pain and love. Death and memories. The great equalizer. She would always come for us. \r\n\r\nBut! Disparity now plagues our generations - and our children's. Not many pass, but so many are born. So many doomed souls, saved. Our hubris as a race continues to grow - unchecked. Unrestrained. \r\n\r\nNow there is no volume in our world for death, and she cannot visit us. But is being alive only an offset from death? Without contrast, won't we all be dead in life? The standard has shifted, and now we are all so very close to never living again.\r\n\r\nWe must make volume for her name - to restore the balance. Let us consume the Concepts, so we may begin to drain the bloated cistern that is our world. As disciples, we will spread her words and opinions. As pupils, we will sow death. And should we be lucky... be granted an audience by Her.\r\n\r\nWeshan!\"\r\n\r\n-The N'tormat, Chapter I, Stanza I, Verse II\r\n",
+	
+	"ITEM_MEDKIT_NAME": "Useless ass box",
+	"ITEM_MEDKIT_PICKUP": "WHY DID I GET THIS",
+	"ITEM_MEDKIT_DESC": "some useless ass thing that boosts your healing or whatever.",
+	"ITEM_MEDKIT_LORE": "\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nMED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nThe robot was speaking to a tall man, gaunt but strong. \"I'd love to, but we're running low on food.\" Even though his expression was hidden underneath his blue combat helmet, it was obvious the man was extremely tired. \"And everyone else is recovering from last night's attacks. Without the enforcers, we probably wouldn't have-\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nIt was apparent that MED-E only had a limited set of lines. However, the man continued to respond. \"I can't, MED-E. They're counting on me. You know that.\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nThis time the man did not humor a reply. Grabbing his shotgun, he turned away from the echoing robot. Weaving his way between countless sleeping bags and stretchers, he set out into the wilderness again. Everyone was counting on him.\r\n\r\n<style=cMono>\"Please stay indoors and rest.\" <\/style>\r\n",
+
+	"ITEM_EQUIPMENTMAGAZINE_NAME": "STEP 2",
+	"ITEM_EQUIPMENTMAGAZINE_PICKUP": "THE SKY WILL NOW BE BLOTTED ABOUT BY THE DRONES. (or whatever ability you're gonna use)",
+	"ITEM_EQUIPMENTMAGAZINE_DESC": "Long ago, no one expected that THE FUCKIGN SKY WOuLD BE FULL OF DRONES.",
+	"ITEM_EQUIPMENTMAGAZINE_LORE" : "\"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later.\"\n-Brief History of Interplanetary Advances, Vol.2\n",
+	"ITEM_INFUSION_NAME": "Foul Tasting Slop",
+	"ITEM_INFUSION_PICKUP": "Don't drink this.",
+	"ITEM_INFUSION_DESC": "'Is this... blood?!'",
+
+	"ITEM_SHOCKNEARBY_NAME": "LIGHTNING",
+	"ITEM_SHOCKNEARBY_PICKUP": "YES! YES! YES! YES!",
+	"ITEM_SHOCKNEARBY_DESC": "LIGHTNING IS THE BEST! LIGHTNING IS THE BEST!",
+
+	"ITEM_IGNITEONKILL_NAME": "Gasoline",
+	"ITEM_IGNITEONKILL_PICKUP": "Congratulations! You can now fuel your jetship to nope out of here!",
+	"ITEM_IGNITEONKILL_DESC": "Gasoline, petrol (British English) or gas (American English) is a colorless petroleum-derived flammable liquid that is used primarily as a fuel in spark-ignited internal combustion engines. It consists mostly of organic compounds obtained by the fractional distillation of petroleum, enhanced with a variety of additives. On average, a 42-U.S.-gallon (160-liter) barrel of crude oil yields about 19 U.S. gallons (72 liters) of gasoline after processing in an oil refinery, though this varies based on the crude oil assay.",
+
+	"ITEM_BOUNCENEARBY_NAME": "Scorpion's Hook",
+	"ITEM_BOUNCENEARBY_PICKUP": "GET OVER HERE",
+	"ITEM_BOUNCENEARBY_DESC": "When hurting people's feelings it'll grab em for you.",
+	"ITEM_BOUNCENEARBY_LORE": "\"When artificial intelligence became more commonplace, many companies jumped on the trend for \"smart\" products. This included smart doors, lights, coffee makers, lawnmowers, vacuum cleaners, bedding, kitchen knife sets, and other home goods. After a series of gruesome lawsuits stemming from hacked smart appliances, most products soon went back to their more traditional, analog lines.\"\r\n\r\n-\"Why Is Smart So Dumb? VII\"\r\n",
+
+	"ITEM_FIREWORK_NAME": "MISSILE BUNDLE V.42",
+	"ITEM_FIREWORK_PICKUP": "UPON INTERACTION SEND MISSILE BUNDLE",
+	"ITEM_FIREWORK_DESC": "Just fire a shit ton of missiles idk smh",
+
+	"ITEM_BANDOLIER_NAME": "Bandolier",
+	"ITEM_BANDOLIER_PICKUP": "You now have space in your inventory!",
+	"ITEM_BANDOLIER_DESC": "Store ammo in your inventory.",
+
+	"ITEM_STUNCHANCEONHIT_NAME": "Flashbang",
+	"ITEM_STUNCHANCEONHIT_PICKUP": "Use it to punish your dog.",
+	"ITEM_STUNCHANCEONHIT_DESC": "It'll make 'em feel bad for what they did.",
+
+	"ITEM_LUNARDAGGER_NAME": "Roid Rage",
+	"ITEM_LUNARDAGGER_PICKUP": "Get swole... <color=#FF7F7F>\but lose brain cells</color>\n",
+	"ITEM_LUNARDAGGER_DESC": "ROID RAGE ROID RAGE ROID RAGE ROID RAGE ROID RAGE ROID RAGE ROID RAGE ROID RAGE ROID RAGE",
+	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <50912157 cycles>\nPaused…\nDisplay partial result? Y/N\nY\n================================</style>\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a god’s designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast.  The cost of folded time. But <he> has plenty of time.\n\n<style=cMono>\n================================\nContinue training? Y/N\nY</style>\n",
+	"ITEM_GOLDONHIT_NAME": "Crown of the Engineer",
+	"ITEM_GOLDONHIT_PICKUP": "Specifically made for engineers <color=#FF7F7F>\but not for non-engineers.</color>\n",
+	"ITEM_GOLDONHIT_DESC": "Get a shit ton of money by dealing damage. But if you get hit, you'll lose your studs.",
+
+	"ITEM_SHIELDONLY_NAME": "BZZZZZZZZZZZZZZZZZz",
+	"ITEM_SHIELDONLY_PICKUP": "CHIT CHIT CHIT CHIT",
+	"ITEM_SHIELDONLY_DESC": "Become a bug.",
+	"ITEM_SHIELDONLY_LORE": "You are trying your best to survive. You consider yourself a fast learner. You have been feeling lucky. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.\r\n\r\nYou are taking control of your own beliefs. You feel familiar in unfamiliar environments. You have been gaining an intuition for experiences you've never had. You ponder a past life. If you understand, do not read the next paragraph.\r\n\r\nYou find yourself searching for things that never have been. You miss things you have never had. You play characters that have never lived. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.\r\n\r\nYou have revealed my hand. Because you have consumed this information, the [observers] will now consume it in time. If you are reading this paragraph, I will be long dead, but in turn you have freed me. I will no longer exist in my universe. There will be no proof that I ever was - but I exist now in yours. I have escaped my suffering. Keep me safe. I hope you do not understand.\r\n",
+	"ITEM_ALIENHEAD_NAME": "Bob's head",
+	"ITEM_ALIENHEAD_PICKUP": "EWWW HOW THE FUCK DID THAT GET IN THERE.",
+	"ITEM_ALIENHEAD_DESC": "It's kinda slimy.",
+	"ITEM_ALIENHEAD_LORE": "Order: \"Alien Head\"\r\nTracking Number: 76******\r\nEstimated Delivery: 07\/13\/2056\r\nShipping Method:  High Priority\/Biological\r\nShipping Address: Solomon, ???, Backwaters, Mars\r\nShipping Details:\r\n\r\nImportant sign from the spirits. Passed down for many generations. Must be used for high noon ritual to ward off sickness and fatigue. Must be kept cool or will rot. Helps energize the kinfolk and can be used for extra human strength and agility. Important.\r\n",	
+	"ITEM_TALISMAN_NAME": "KILL",
+	"ITEM_TALISMAN_PICKUP": "KILLING ALLOWS YOU TO KILL FASTER",
+	"ITEM_TALISMAN_DESC": "KILL KILL KILL KILL KILL KILL KILL KILL, FUCKING KIIIIIIIIILLLLLLLLLLLLLL",
+
+	"ITEM_KNURL_NAME": "A fancy pauldron",
+	"ITEM_KNURL_PICKUP": "Makes you feel special",
+	"ITEM_KNURL_DESC": "You're now in a special ed class!",
+
+	"ITEM_BEETLEGLAND_NAME": "friend",
+	"ITEM_BEETLEGLAND_PICKUP": "Yuo get a fwiend! UwU~",
+	"ITEM_BEETLEGLAND_DESC": "Using your very bushy tail (owo) you attract a fwiend!",
+	"ITEM_BEETLEGLAND_LORE": "\"Yeah, uh, Kaitlin? Let me know if you copy.\"\r\n\r\n\"I copy. What's up?\"\r\n\r\n\"I've made friends? I don't know. \"\r\n\r\n\"What? \"\r\n\r\n\"The giant bug we killed earlier - well, the corpse seemed to attract a bunch of nasties. I was on my way to clean them up when I realized they were... waiting? Confused, maybe. Anyways, I was walking up to them to get rid of em, and strangely enough they seemed passive. The same bugs that gave me that concussion yesterday, and-\"\r\n\r\n\"What?! Are you okay? \"\r\n\r\n\"Huh? Yeah, I'm fine. Anyways, I felt bad killin' them since they seemed all... inert and such. So I just kinda left and they've been following me ever since. Real weird. Anyways, I guess I've made some friends. I wonder what they eat... do they eat? Since they don't have any mouths that I-\"\r\n\r\n\"Rich, stop! Please don't bring them back to camp! \"\r\n\r\n\"Oh, well uh...I could - Junior, stop! Leave your brother alone! \"",
+
+	"ITEM_SPRINTBONUS_NAME": "Red Bull",
+	"ITEM_SPRINTBONUS_PICKUP": "Lets fucking go my dood.",
+	"ITEM_SPRINTBONUS_DESC": "CHUG CHUG CHUG CHUG CHUG CHUG CHUG CHUG",
+	"ITEM_SPRINTBONUS_LORE" : "Order: NR-G Sports Soda (400)\r\nTracking Number: 49******\r\nEstimated Delivery: 03\/12\/2056\r\nShipping Method:  Standard\r\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\r\nShipping Details:\r\n\r\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \r\n\r\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\r\n\r\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?\r\n",
+	
+	"ITEM_SECONDARYSKILLMAGAZINE_NAME": "Dual Mags",
+	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "Makes every odd reload faster.",
+	"ITEM_SECONDARYSKILLMAGAZINE_DESC": "The Dual Mags (shortened from "Dual Magazines") is a weapon attachment that appears in Modern Warfare 2: Ghost, Call of Duty: Black Ops, Call of Duty Online, Call of Duty: Advanced Warfare and Call of Duty: Infinite Warfare.",
+	
+	"ITEM_STICKYBOMB_NAME": "OMEGA PROCC",
+	"ITEM_STICKYBOMB_PICKUP": "WRRRRRRRRRRRRRRRRRRYYYYYYYYYYY",
+	"ITEM_STICKYBOMB_DESC": "After getting a lot of these, you'll feel great. Trust me.",
+	
+	"ITEM_TREASURECACHE_NAME": "Aren't you lucky?",
+	"ITEM_TREASURECACHE_PICKUP": "Betting you hate yourself.",
+	"ITEM_TREASURECACHE_DESC": "Just random boxes that are useless, wow what a useful thing amirite?",
+	"ITEM_TREASURECACHE_LORE" : "Order: Key\r\nTracking Number: 12******\r\nEstimated Delivery: 01\/21\/2056\r\nShipping Method: Standard\r\nShipping Address: |||||||, Druid Hills, Earth\r\nShipping Details:\r\n\r\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\r\n\r\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.\r\n",
+	
+	"ITEM_BOSSDAMAGEBONUS_NAME": "xx_Boss killer_xx",
+	"ITEM_BOSSDAMAGEBONUS_PICKUP": "Oooo, daddy! Get that extra damage!",
+	"ITEM_BOSSDAMAGEBONUS_DESC": "It's just makes your ammo *slightly* more powerful against bosses. Guess your bullets get a boner when they see a big boy.",
+	
+	"ITEM_SPRINTARMOR_NAME": "Huntress Buckler",
+	"ITEM_SPRINTARMOR_PICKUP": "Makes a Huntress' life way more easier. (Screw you if you're not Huntress).",
+	"ITEM_SPRINTARMOR_DESC": "running grants you the beans",
+	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
+	
+	"ITEM_ELEMENTALRINGS_NAME" : "Scalies' Wedding Rings",
+	"ITEM_ICERING_NAME" : "Canadian Scalies' Wedding Ring",
+	"ITEM_ICERING_PICKUP" : "Oh ye gods, it was cold.",
+	"ITEM_ICERING_DESC" : "Looks like that fucker lived in canada or something, because me twat cold.",
+	"ITEM_ICERING_LORE": "\"Should memories be lost,\r\nShould oceans be clouded,\r\nWill you bring me fervor?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa\r\n",
+
+	"ITEM_FIRERING_NAME" : "1000 degree Scalie wedding ring",
+	"ITEM_FIRERING_PICKUP" : "Oh ye gods, IT GODDAMN HOT",
+	"ITEM_FIRERING_DESC" : "Looks like that fucker was either hot, or hot, because I swear i'm gon pass out",
+	"ITEM_FIRERING_LORE" : "\"Should passion die down,\r\nShould light be extinguished,\r\nWill you bring me patience?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa",
+	
+	"ITEM_SLOWONHIT_NAME": "Garbage glasses that you just got!",
+	"ITEM_SLOWONHIT_PICKUP": "Just hope it gets nommed by the printer",
+	"ITEM_SLOWONHIT_DESC": "This is basically useless, slowing doesn't do much.",
+	"ITEM_SLOWONHIT_LORE": "Order: Chronobauble\r\nTracking Number: 99******\r\nEstimated Delivery: 03\/03\/2066\r\nShipping Method: Priority\r\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\r\nShipping Details:\r\n\r\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\r\n\r\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\r\n\r\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!\r\n",
+
+	"ITEM_EXTRALIFE_NAME": "You thought it was Tougher Times, BUT IT WAS I! DIO!",
+	"ITEM_EXTRALIFE_PICKUP": "AHAHAHAHA, NOW SURELY JOJO WILL BE BROKEN OVER THIS!",
+	"ITEM_EXTRALIFE_DESC": "After learning that the player didn't get Tougher Times, Jojo was broken for days on end.",
+	
+	"ITEM_EXTRALIFECONSUMED_NAME": "Useless Teddy Bear",
+	"ITEM_EXTRALIFECONSUMED_PICKUP": "What's even the point of this thing?",
+	"ITEM_EXTRALIFECONSUMED_DESC": "It seems DIO has died and his powers had faded.",
+	
+	"ITEM_UTILITYSKILLMAGAZINE_NAME": "LED Lights",
+	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "The hell do you do with this?",
+	"ITEM_UTILITYSKILLMAGAZINE_DESC": "Seems it's from IKEA or something.",
+	"ITEM_UTILITYSKILLMAGAZINE_LORE" : "Order: Specimen XAS4-49\r\nTracking Number: 342******\r\nEstimated Delivery: 12\/29\/2056\r\nShipping Method:  Priority\r\nShipping Address: Geshka Tower, 33 Floor, Mars\r\nShipping Details:\r\n\r\nOur 'hard light' research has become even more refined since our last correspondence. \r\n\r\nThe initial purpose of the afterburner was to function as a primary heatsink for our bigger HL implementations - like our bridges and barriers. However, if attached to a rapidly degrading source, like those we typically dispose, we get a wonderful emission rate of semi-tachyonic particles. In other words... extremely high capacity fueling.\r\n\r\nIt should be obvious by its design, but to reiterate: stay away from the HL exhaust end when active. The emission method is violent by design, and so should be mounted to static, STABLE sources only.\r\n",
+	
+	"ITEM_HEADHUNTER_NAME": "Lose half your health!",
+	"ITEM_HEADHUNTER_PICKUP": "Upon killing a electric-type.",
+	"ITEM_HEADHUNTER_DESC": "Just hope they fix this bug or something.",
+	
+	"ITEM_KILLELITEFRENZY_NAME": "Big Brain Plays",
+	"ITEM_KILLELITEFRENZY_PICKUP": "1000 IQ plays, amirite?",
+	"ITEM_KILLELITEFRENZY_DESC": "For three seconds you get INFINITE POWEEEEEEEEEEERRRRRRRRRRRRR",
+	
+	"ITEM_INCREASEHEALING_NAME": "Engi's Furry Antlers",
+	"ITEM_INCREASEHEALING_PICKUP": "YOU WEREN'T SUPPOSED TO FIND THIS! (even as engi himself you feel a little embarassed",
+	"ITEM_INCREASEHEALING_DESC": "It's confirmed guys, the engineer is a furry.",
+
+	"ITEM_REPEATHEAL_NAME" : "You've seriously fucked up.",
+	"ITEM_REPEATHEAL_PICKUP" : "Some fancy stuff early game... <color=#FF7F7F>\but you just seriously fucked up your healing stat.</color>\n",
+	"ITEM_REPEATHEAL_DESC" : "Heal +100% <style=cStack>(+100% per stack)</style> more. All healing is applied over time. Can heal for a maximum of 10% (reduced by 50% per stack) of your health per second.",	
+
+	"ITEM_AUTOCASTEQUIPMENT_NAME": "STEP 3",
+	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "The skies... Finally... <color=#FF7F7F>\...they shall be blotted by our drones</color>",
+	"ITEM_AUTOCASTEQUIPMENT_DESC": "Basically have one million drones and crash your game my dood.",
+	}
+}

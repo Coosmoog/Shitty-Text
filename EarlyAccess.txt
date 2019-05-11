@@ -1,0 +1,8 @@
+{
+	strings:
+	{
+	"EARLY_ACCESS_DISCLAIMER": "Ayy whats up my dood! \r\n\r\nHopoo still making this shite so it aint finished <sprite name=\"WIP\">.\r\n\r\nSpam our inbox at @i want 2 die lmao.com. Spam us on our discord and argue with others accesible under our great music tab or whatever the fuck. \r\n\r\nNow go fucking die,\r\n\r\n<i>- Hopoo, the greatest game dev. (<3 them)<\/i>",
+	"EARLY_ACCESS_LORE" : "<style=cMono>\r\nWelcome to WE'RE NOT FINISHED MAKING THE GAME (v9999 \AAAAAAAAAAA)\r\n$ FUCK UH LEMME SEE\r\n$ NOT FINDING SHIT CHIEF UHHHH.\r\n$ LOOKING FOR MORE SHITE\r\nError!\r\nWELL CHIEF TAKE A FUCKING LOOOK AT THIS\r\n<\/style>\r\n\r\n<sprite name=\"WIP\"> please get the message that we aint done making this game. thanks a fucking lot you garbo person <3  <sprite name=\"WIP\">\r\n",
+	}
+}
+

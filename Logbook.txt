@@ -1,0 +1,21 @@
+{
+	strings:
+	{
+	"LOGBOOK" : "Book of Logs",
+	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "equippable stuff + crap",
+	"LOGBOOK_CATEGORY_ITEM" : "fungus?",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "not fungus",
+	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "To-do",
+
+	"LOGBOOK_CATEGORY_MONSTER" : "oogly boolgy",
+	"LOGBOOK_CATEGORY_STAGE" : "za warudo",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "people",
+	"LOGBOOK_CATEGORY_FRAGMENT" : "Froog",
+
+	"LOGBOOK_UNLOCK_ITEM_LOG" : "<i>\Get this shit to get this log nerd</i>",
+	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "<i>Killinate this guy to read his biography</i>",
+	"LOGBOOK_UNLOCK_ITEM_STAGE" : "<i>Sand</i>",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "<i>git gud and get 2000+ hours in this game</i>",
+	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "<i>Fuck you, you're never going to get this.</i>",
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"strings":
+	{
+		"RULE_HEADER_DIFFICULTY": "Dont be a drizzlet",
+		"RULE_HEADER_ARTIFACTS": "Stuff or whatever",
+		"RULE_HEADER_ITEMS": "fungus",
+		"RULE_HEADER_EQUIPMENT": "Missiles???",
+		"RULE_HEADER_MISC": "What even",
+		"RULE_ARTIFACTS_EMPTY_TIP": "Random shit or whatever, <sprite name=\"WIP\"> not in the game lmao <sprite name=\"WIP\">",
+
+		"RULE_STARTINGMONEY_CHOICE_0_NAME": "ur poor",
+		"RULE_STARTINGMONEY_CHOICE_0_DESC": "dumbass.",
+		"RULE_STARTINGMONEY_CHOICE_15_NAME": "huh",
+		"RULE_STARTINGMONEY_CHOICE_15_DESC": "pocket change.",
+		"RULE_STARTINGMONEY_CHOICE_50_NAME": "muny",
+		"RULE_STARTINGMONEY_CHOICE_50_DESC": "fiddy bitcoins",
+
+		"RULE_STAGEORDER_CHOICE_NORMAL_NAME": "Standard",
+		"RULE_STAGEORDER_CHOICE_NORMAL_DESC": "Stages progress in order.",
+
+		"RULE_STAGEORDER_CHOICE_RANDOM_NAME": "Meander",
+		"RULE_STAGEORDER_CHOICE_RANDOM_DESC": "Stages progress in a random order.",
+		
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_ON_DESC": "Money is kept between stages",
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_OFF_DESC": "Money is converted to experience upon stage completion",
+	}
+}

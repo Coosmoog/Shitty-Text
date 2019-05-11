@@ -1,0 +1,15 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "whalecum to gaem",
+	"DIFFICULTY_BAR_1": "we haev bad guy",
+	"DIFFICULTY_BAR_2": "they kill u",
+	"DIFFICULTY_BAR_3": "neat rite?",
+	"DIFFICULTY_BAR_4": "drink milk",
+	"DIFFICULTY_BAR_5": "Ouch oof my bones",
+	"DIFFICULTY_BAR_6": "what is going on",
+	"DIFFICULTY_BAR_7": "mOM!!??!?!",
+	"DIFFICULTY_BAR_8": "Beans are about to be recieved",
+	"DIFFICULTY_BAR_9": "shitohfuckshitohfuckshitohfuckshitohfuck",
+	}
+}

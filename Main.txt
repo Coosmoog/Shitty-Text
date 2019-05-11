@@ -1,0 +1,116 @@
+{
+	"strings":
+	{
+		"GAME_TITLE": "Spacegame 2017",
+		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
+		"TITLE_PROFILE": "Profile: {0}",
+		"TITLE_SINGLEPLAYER": "fuck yor wife",
+		"TITLE_MULTIPLAYER": "die with your squad",
+		"TITLE_SETTINGS": "Change shit up",
+		"TITLE_LOGS": "Nerd shit",
+		"TITLE_UNLOCKABLES": "The to-do",
+		"TITLE_MORE": "Join our discord fucker",
+		"TITLE_EXIT": "Go back to living your life",
+		"TITLE_MULTIPLAYER_QUICKPLAY_START": "Have a public orgy!",
+		"TITLE_MULTIPLAYER_QUICKPLAY_STOP":  "Decide you have better things to do",
+		"TITLE_MULTIPLAYER_HOST": "Have a private orgy",
+		"TITLE_MULTIPLAYER_JOIN": "Join an ID",
+		"TITLE_MULTIPLAYER_INVITE": "Have an orgy with someone you know",
+		"TITLE_MULTIPLAYER_RETURN": "fuck this shit",
+
+		"MORE_MUSIC" : "fortnite ost",
+		"MORE_MUSIC_DESC" : "Hey guys, Chris Pratt. I make good musive, fuck you, pay me lmao.",
+		"MORE_MUSIC_BUTTON" : "Taaaaakeeeeeeee oonnnnnnn meeeeee!",
+		"MORE_CONTACT" : "Enemy Contact",
+		"MORE_CONTACT_DESC" : "Fuck you, follow me us on twitter nerd",
+
+		"MORE_LICENSE" : "stuff",
+		"MORE_LICENSE_DESC" : "i dont care nor do you",
+
+		"DESC_MULTIPLAYER_QUICKPLAY": "find randos to have an orgy with.",
+		"DESC_MULTIPLAYER_HOST": "host an orgy",
+		"DESC_MULTIPLAYER_JOIN": "why would you use this",
+		"DESC_MULTIPLAYER_INVITE": "slaughter with your steam friendos",
+
+		"TITLE_WEEKLY" : "hell fuckening",
+		"TITLE_WEEKLY_START" : "Start hell",
+		"WEEKLY_RUN_NO_ENTRY" : "Play if you want see",
+		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "tick tock tick tock - big thing in {0:00}:{1:00}:{2:00}",
+		"WEEKLY_RUN_DESCRIPTION" :	"'basically you play on the same thing as everyone else cool rite?.\n\nThe <style=cWorldEvent>top 10%</style> of players basically are no-lifers.",
+
+		"CHARSELECT_RETURN": "nope",
+		"DIFFICULTY_EASY_NAME": "haha ur bad",
+		"DIFFICULTY_EASY_DESCRIPTION": "No judgement. Fucking drizzlet",
+
+		"DIFFICULTY_NORMAL_NAME": "Gamer",
+		"DIFFICULTY_NORMAL_DESCRIPTION": "You actually want to play the game? Play on gamer my gamer.",
+
+		"DIFFICULTY_HARD_NAME": "Monsoon",
+		"DIFFICULTY_HARD_DESCRIPTION": "Bold of you to select this difficulty.",
+		
+		"USER_PROFILE_DELETE_HEADER": "Obliterate yourself from existence?",
+		"USER_PROFILE_DELETE_DESCRIPTION": "Ya sure you'll delete \"<color="orange">{0}</color>\"? everything will be <style=cDeath>thanos snapped</style>.",
+		"USER_PROFILE_DELETE_YES": "I want to die.",
+		"USER_PROFILE_DELETE_NO": "That's gonna be a no from me dawg",
+		
+
+		"SUBMENU_BACK": "naw",
+		"ACHIEVEMENTS_SCREEN_TITLE": "Shit to do",
+		"ACHIEVEMENT_CARD_REWARD_FORMAT": "ting u get {0}",
+		"ACHIEVEMENT_CARD_PREREQ_FORMAT" : "Do {0}",
+		"CHAT_KEYBIND_TIP": "Press Enter to shit talk people",
+
+		"GAME_RESULT_LOST": "oof your bones broke.",
+		"GAME_RESULT_WON": "Congratulations, you won!",
+		"GAME_RESULT_UNKNOWN": "Now you can go to bed.",
+		
+		"UNIDENTIFIED" : "???",
+		
+		"DESCRIPTION_PREFIX_FORMAT" : "Description:\n{0}",
+		"NOTES_PREFIX_FORMAT" : "Notes:\n<style=cSub><size=80%>{0}</size></style>",
+
+		"GENERIC_PREFIX_FOUND" : "Got: <style=cEvent>{0}</style>",
+		"GENERIC_PREFIX_WINPERCENTAGE" : "Win Percentage: <style=cEvent>{0}%</style>",
+		"BODY_HEALTH_FORMAT" : "Max Girth: {0}",
+		"BODY_DAMAGE_FORMAT" : "Dmg: {0}",
+		"BODY_MOVESPEED_FORMAT" : "vroom: {0} m/s",
+
+		"ITEM_PREFIX_STACKCOUNT" : "most shit got: <style=cEvent>x{0}</style>",
+		"EQUIPMENT_PREFIX_USECOUNT" : "beans got: <style=cEvent>{0}</style>",
+		"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "time for longest nut: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_KILLED" : "jomama: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_ELITESKILLED" : "Gamers ended: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_DEATH" : "murderated you this many time: <style=cEvent>{0}</style>",
+		
+		"STAGE_PREFIX_TOTALTIMESVISITED" : "amount of ass eaten: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_TOTALTIMESCLEARED" : "stage clears: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "comple percentage: <style=cEvent>{0}%</style>",
+
+		"SURVIVOR_PREFIX_LONGESTRUN" : "hours wasted: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_TIMESPICKED" : " game play: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_PICKPERCENTAGE" : "percentage of how much shite ya chose this b: <style=cEvent>{0:#00.00}%</style>",
+
+		"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} per level)</style>",
+		
+		"OK" : "OK",
+		"CANCEL" : "Cancel",
+		
+		"PLAYER_NAME_TOOLTIP_FORMAT" : "Player: {0}",
+		"PLAYER_NAME_DISCONNECTED" : "Not in game pesron",
+		"PLAYER_NAME_UNAVAILABLE" : "???",
+		
+		"DISCONNECTED" : "ur no longer in game",
+		"KICK_REASON_UNSPECIFIED" : "fuck idk.",
+		"KICK_REASON_SERVERSHUTDOWN" : "host needed sleep or ragequitted lmao.",
+		"KICK_REASON_TIMEOUT" : "Timed out. I feel for you.",
+		"KICK_REASON_KICK" : "oof u got kick.",
+		"KICK_REASON_BAN" : "get fucked",
+		"KICK_REASON_BADPASSWORD" : "wrong passcode.",
+		"KICK_REASON_BADVERSION" : "you're probably using mods.",
+		"KICK_REASON_SERVERFULL" : "People are in here srry.",
+
+		"LEADERBOARDS" : "top 10 no-lifers",
+		"LEADERBOARDS_GLOBAL" : "Euro-fags mostly",
+		"LEADERBOARDS_FRIENDS" : "People you know",
+	}
+}

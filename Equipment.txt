@@ -1,0 +1,94 @@
+{
+	"strings":
+	{
+	"EQUIPMENT_COMMANDMISSILE_NAME": "TACTICAL MISSILE STRIKE",
+	"EQUIPMENT_COMMANDMISSILE_PICKUP": "BOOM KABOOM PSSHHH PCHHHH",
+	"EQUIPMENT_COMMANDMISSILE_DESC": "ALRIGHT, THATS A LOTTA<style=cIsDamage> DAMAGE</style>",
+
+	"EQUIPMENT_SAW_NAME": "Saw",
+	"EQUIPMENT_SAW_PICKUP": "Saw pickup text.",
+	"EQUIPMENT_SAW_DESC": "Saw description.",
+
+	"EQUIPMENT_FRUIT_NAME": "Fortnite Berry",
+	"EQUIPMENT_FRUIT_PICKUP": "Instantly eat ass",
+	"EQUIPMENT_FRUIT_DESC": "Eat ass for <style=cIsHealing>50% of your dignity.</style>",
+
+	"EQUIPMENT_METEOR_NAME": "Armegeddon",
+	"EQUIPMENT_METEOR_PICKUP": "Meteors rain from the sky, <color=#FF7F7F>and basically you'll kill the boss, yourself, and your friends.</color>",
+	"EQUIPMENT_METEOR_DESC": "YOU WANT TO KILL EVERYONE? <style=cIsDamage>600% DAMAGE PER BLAST</style>! AAAAAAAAA",
+
+	"EQUIPMENT_SOULJAR_NAME": "Jar of Souls",
+	"EQUIPMENT_SOULJAR_PICKUP": "Summon a ghost for every enemy on the screen.",
+	"EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
+
+	"EQUIPMENT_BLACKHOLE_NAME": "blekhole lancher",
+	"EQUIPMENT_BLACKHOLE_PICKUP": "s   u   c  c",
+	"EQUIPMENT_BLACKHOLE_DESC": "Fire a super compressed picture of Huntresses ass that <style=cIsUtility>draws thirsty men and woman in</style>. Triggers randos who don't like the word 'thicc'",
+
+	"EQUIPMENT_GHOSTGUN_NAME": "Reaper's Remorse",
+	"EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",
+	"EQUIPMENT_GHOSTGUN_DESC": "Ghost Gun description.",
+
+	"EQUIPMENT_CRITONUSE_NAME": "Kritzkreig",
+	"EQUIPMENT_CRITONUSE_PICKUP": "Basically just damage",
+	"EQUIPMENT_CRITONUSE_DESC": "Gain <style=cIsDamage>some fucking damage</style> for 8 secs.",
+
+	"EQUIPMENT_DRONEBACKUP_NAME": "AHAHAHAHAHA",
+	"EQUIPMENT_DRONEBACKUP_PICKUP": "OUR DRONES SHALL BLOT THE SKY.",
+	"EQUIPMENT_DRONEBACKUP_DESC": "CALL <style=cIsDamage>IN FOUR BIG BOYS</style> TO BLOT THE SKY",
+	"EQUIPMENT_DRONEBACKUP_LORE": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n",
+
+	"EQUIPMENT_BFG_NAME": "BFG",
+	"EQUIPMENT_BFG_PICKUP": "It's a big fucking gun.",
+	"EQUIPMENT_BFG_DESC": "<style=cIsDamage>Listen to the screams of agony</style>",
+
+	"EQUIPMENT_JETPACK_NAME": "Belief",
+    "EQUIPMENT_JETPACK_PICKUP": "Your belief is so strong u can FLY",
+    "EQUIPMENT_JETPACK_DESC": "Believe in yourself and <style=cIsUtility>fly for 15 seconds, 15 seconds of pire bliss borther.</style> sidenote: <style=cIsUtility>(ur alos fast)",
+
+	"EQUIPMENT_LIGHTNING_NAME": "Dark Souls 2",
+    "EQUIPMENT_LIGHTNING_PICKUP": "You killed that one nerd, have lightning.",
+    "EQUIPMENT_LIGHTNING_DESC": "<style=cIsDamage>YES YES YES YES YES YES YES YES</style> LIGHTNING IS THE BEST!<style=cIsDamage> LIGHTNING IS THE BEST!</style>",
+
+	"EQUIPMENT_GOLDGAT_NAME": "Completely shite unless you proccin",
+    "EQUIPMENT_GOLDGAT_PICKUP": "absolutely garbage",
+    "EQUIPMENT_GOLDGAT_DESC": "if you dont have anything<style=cIsDamage>its shit</style>. Costs a dolla a bullet, less you have sticky bombs kiss this thing goodbye because its shit",
+	
+	"EQUIPMENT_PASSIVEHEALING_NAME": "gnarly my dood",
+	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Pass the ball my dood, itll patch your friend right up",
+	"EQUIPMENT_PASSIVEHEALING_DESC":"Yeet hit me with that healing guy that heals <style=cIsHealing>1.5% of your maximum health/second</style>. yote it to an ally to heal <style=cIsHealing>10% of their maximum health.</style>",
+
+	"EQUIPMENT_AFFIXRED_NAME": "FIRE",
+    "EQUIPMENT_AFFIXRED_PICKUP": "I AM DEAMON",
+    "EQUIPMENT_AFFIXRED_DESC": "rawr ecksdee",
+
+	"EQUIPMENT_AFFIXBLUE_NAME": "If you like it so much, become it. Become one with the lightning",
+    "EQUIPMENT_AFFIXBLUE_PICKUP": "I AM LIGHTNING",
+    "EQUIPMENT_AFFIXBLUE_DESC": "YES YES YES YES YES YES YES YES YES YES",
+
+	"EQUIPMENT_AFFIXGOLD_NAME": "How'd you get this?",
+    "EQUIPMENT_AFFIXGOLD_PICKUP": "Become an aspect of fortune you bitch.",
+    "EQUIPMENT_AFFIXGOLD_DESC": "I guess yuo rich?!??!?!?!?!",
+
+	"EQUIPMENT_AFFIXWHITE_NAME": "Freezy boyz",
+    "EQUIPMENT_AFFIXWHITE_PICKUP": "GOD I NEED A SWEATER HELP ME.",
+    "EQUIPMENT_AFFIXWHITE_DESC": "Your now the guy at the end of the Shining.",
+
+	"EQUIPMENT_BURNNEARBY_NAME" : "Bad slurp juice",
+	"EQUIPMENT_BURNNEARBY_PICKUP" : "BURN IT ALL TO ASHES IN HOLY FLAME... <color=#FF7F7F>YOU BURN, I BURN, WE ALL BURN.</color>\n",
+	"EQUIPMENT_BURNNEARBY_DESC" : "I AM THE FURY, BURN IN MY FLAMES. <style=cIsDamage>RAAAAAGGGGGHHHHH IT BURNS!</style> (useless if you're not merc btw)",
+	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom.  \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
+
+	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
+	"EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
+	"EQUIPMENT_SOULCORRUPTOR_DESC": "EQUIPMENT_SOULCORRUPTOR_DESC",
+
+	"EQUIPMENT_SCANNER_NAME": "junk",
+	"EQUIPMENT_SCANNER_PICKUP": "fuck this thing",
+	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>i hate it,</style> you hate it, <style=cIsUtility>we all hate it</style>.",
+	
+	"EQUIPMENT_CRIPPLEWARD_NAME" : "Why does this even exist",
+	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "basically your leg broke lmao",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "fuck everyone, <style=cIsUtility>y'all slow and stupid</style> and yo <style=cIsDamage>armor reduced by 20.</style>",
+	}
+}
